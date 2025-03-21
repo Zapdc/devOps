@@ -1,3 +1,5 @@
+https://roadmap.sh/projects/server-stats
+
 # Server Performance Stats Script
 
 This project contains a Bash shell script called `server-stats.sh` that analyzes basic server performance stats. It can be run on any Linux-based system, including WSL (Windows Subsystem for Linux).
